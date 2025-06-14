@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "6v2g/OTLBGRR6A87S076qVWGacZ4VZAyu01o2OCwITc=",
+  "Source": "SchoolManagmentSystem",
+  "BasePath": "_content/SchoolManagmentSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SchoolManagmentSystem\\wwwroot",
+      "Source": "SchoolManagmentSystem",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\New folder (2)\\SchoolManagmentSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagmentSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\New folder (2)\\SchoolManagmentSystem\\wwwroot\\uploads\\b5b0f019-89b5-4ae9-87ae-4d06387822ee.pdf",
+      "SourceId": "SchoolManagmentSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\New folder (2)\\SchoolManagmentSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagmentSystem",
+      "RelativePath": "uploads/b5b0f019-89b5-4ae9-87ae-4d06387822ee.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\b5b0f019-89b5-4ae9-87ae-4d06387822ee.pdf"
+    }
+  ]
+}
